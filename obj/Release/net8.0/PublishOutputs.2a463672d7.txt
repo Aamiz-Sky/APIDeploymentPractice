@@ -1,0 +1,11 @@
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\APIDeployment.exe
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\appsettings.Development.json
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\appsettings.json
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\APIDeployment.dll
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\APIDeployment.deps.json
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\APIDeployment.runtimeconfig.json
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\APIDeployment.pdb
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\VS Projects\APIDeployment\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
